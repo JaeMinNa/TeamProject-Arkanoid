@@ -10,9 +10,14 @@
 + 무한 모드 : 하트는 단 3개! 어디까지 깰 수 있을까?
 + 타임 어택 : 가장 빠르게 레벨을 클리어해보세요!
 + 대전 모드 : 키보드 하나로 둘이서 겨루는 재미!
+<br/>
 
-## 📆 Develop Schedule
-* 23.11.30 ~ 23.12.07
+## 📽️ 프로젝트 소개
+ - 게임 이름 : Arkanoid 24
+ - 플랫폼 : PC
+ - 장르 : 2D 아케이드
+ - 개발 기간 : 23.11.30 ~ 23.12.07
+<br/>
 
 ## ⚙️ Environment
 
@@ -21,6 +26,7 @@
 - **VCS** : Git (GitHub Desktop)
 - **Envrionment** : PC `only`
 - **Resolution** :	1920 x 1080 `FHD`
+<br/>
 
 ## 👤Collaborator - Team Intro
 - 팀장  `송희성` - 리팩터링 / 사용자 입력 / 플레이어(Paddle) / 공(Ball) / 멀티 플레이어 (로컬)
@@ -29,6 +35,7 @@
 - 팀원3 `유건희` - UI디자인 및 데이터 바인딩 / 프리팹 및 리소스 / 게임 컨셉 / 랭킹 및 플레이어 제어
 - 팀원4 `고민수` - 아이템 디자인 / 아이템 스킬 구현 / 스킬 매니저 / 코드 분기 통합 / 트러블 슈팅
 - 팀원5 `나재민` - 아이템 디자인 / 아이템 스킬 구현 / UI디자인 (설정) / 상호작용(Interact)
+<br/>
 
 ## ▶️ 게임 스크린샷
 
@@ -48,3 +55,16 @@
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d53fc929-3b17-4872-92d0-c2bac834b4ae" width="49%"/>
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/facd7cc8-6496-4077-b791-d66f1c045b8f" width="49%"/>
 </p>
+<br/>
+
+## ✏️ 구현 기능
+
+### 1. 게임 BGM, 효과음 조절 기능 구현
+<img src="https://github.com/JaeMinNa/Ocean_Bloom/assets/149379194/a9144d58-1490-4ba3-8c4b-42e4a6dd6734" width="50%"/>
+
+- Slider의 value 값으로 AudioMixer 조절
+
+### 2. ItemDisruption 아이템 구현
+<img src="https://github.com/JaeMinNa/Ocean_Bloom/assets/149379194/189c6289-ef59-4bbf-bb83-c61ff3c56f15" width="50%"/>
+
+- 2개의 추가 Ball 생성 및 Vector 값 변경으로 구현
