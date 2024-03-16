@@ -49,7 +49,7 @@
   </p>
 <p align="center">
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/40184cc1-56d9-418f-ac51-3bab6909fe14" width="49%"/>
-  <img src="ttps://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d53fc929-3b17-4872-92d0-c2bac834b4ae" width="49%"/>
+  <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d53fc929-3b17-4872-92d0-c2bac834b4ae" width="49%"/>
 </p>
 <p align="center">
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d53fc929-3b17-4872-92d0-c2bac834b4ae" width="49%"/>
