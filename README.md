@@ -57,8 +57,6 @@
 
 ### 1. 게임 BGM, 효과음 조절 기능 구현
 <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/cbbc8078-e671-49af-9506-1bd1efe6649b" width="50%"/>
-<br/>
-
 
 - Slider의 value 값으로 AudioMixer 조절
 ```C#
