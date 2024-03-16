@@ -60,11 +60,39 @@
 ## ✏️ 구현 기능
 
 ### 1. 게임 BGM, 효과음 조절 기능 구현
-<img src="https://github.com/JaeMinNa/Ocean_Bloom/assets/149379194/a9144d58-1490-4ba3-8c4b-42e4a6dd6734" width="50%"/>
+<img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/cbbc8078-e671-49af-9506-1bd1efe6649b" width="50%"/>
 
 - Slider의 value 값으로 AudioMixer 조절
+```C#
+public void AudioControl()
+{
+    float sound = audioSlider.value;
+
+    if(sound == -40f)	// -40일 때, 음악을 꺼줌
+    {
+        audioMixer.SetFloat("Master", -80f);
+    }
+    else
+    {
+        audioMixer.SetFloat("Master", sound);
+    }
+}
+```
+<br/>
 
 ### 2. ItemDisruption 아이템 구현
-<img src="https://github.com/JaeMinNa/Ocean_Bloom/assets/149379194/189c6289-ef59-4bbf-bb83-c61ff3c56f15" width="50%"/>
+<img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/864af289-0ab7-47d4-800f-f44c676aa1ce" width="50%"/>
 
 - 2개의 추가 Ball 생성 및 Vector 값 변경으로 구현
+```C#
+public void Disruption()
+{
+    var ball = Managers.Game.CurrentBalls[0];
+    Rigidbody2D BallRb = ball.GetComponent<Rigidbody2D>();
+    Vector2 BallVec = BallRb.velocity;
+
+    InstantiateBall(ball, BallRb, BallVec, false);
+    InstantiateBall(ball, BallRb, BallVec, true);
+}
+```
+<br/>
