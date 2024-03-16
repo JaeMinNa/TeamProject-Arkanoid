@@ -40,7 +40,7 @@
 ## ▶️ 게임 스크린샷
 
 <p align="center">
-  <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/cbbc8078-e671-49af-9506-1bd1efe6649b" width="49%"/>
+  <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/facd7cc8-6496-4077-b791-d66f1c045b8f" width="49%"/>
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/b00650d4-b475-4b98-bd56-546cfe9043ee" width="49%"/>
 </p>
 <p align="center">
@@ -48,8 +48,8 @@
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/85f6eec0-2185-4eb7-a40e-da3b0723ea8d" width="49%"/>
   </p>
 <p align="center">
-  <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/864af289-0ab7-47d4-800f-f44c676aa1ce" width="49%"/>
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/40184cc1-56d9-418f-ac51-3bab6909fe14" width="49%"/>
+  <img src="ttps://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d53fc929-3b17-4872-92d0-c2bac834b4ae" width="49%"/>
 </p>
 <p align="center">
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d53fc929-3b17-4872-92d0-c2bac834b4ae" width="49%"/>
