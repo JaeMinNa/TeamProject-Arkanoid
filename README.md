@@ -40,16 +40,16 @@
 ## ▶️ 게임 스크린샷
 
 <p align="center">
-  <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/facd7cc8-6496-4077-b791-d66f1c045b8f" width="49%"/>
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/b00650d4-b475-4b98-bd56-546cfe9043ee" width="49%"/>
+  <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/40184cc1-56d9-418f-ac51-3bab6909fe14" width="49%"/>
 </p>
 <p align="center">
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d81b35e8-f8cd-4fc3-9487-05ebab0604cb" width="49%"/>
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/85f6eec0-2185-4eb7-a40e-da3b0723ea8d" width="49%"/>
   </p>
 <p align="center">
-  <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/40184cc1-56d9-418f-ac51-3bab6909fe14" width="49%"/>
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d53fc929-3b17-4872-92d0-c2bac834b4ae" width="49%"/>
+  <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/facd7cc8-6496-4077-b791-d66f1c045b8f" width="49%"/>
 </p>
 <p align="center">
   <img src="https://github.com/psw1305/TeamProject-Arkanoid/assets/6329345/d53fc929-3b17-4872-92d0-c2bac834b4ae" width="49%"/>
